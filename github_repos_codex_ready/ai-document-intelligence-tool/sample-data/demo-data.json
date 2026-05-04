@@ -1,0 +1,18 @@
+{
+  "title": "AI Document Intelligence Tool",
+  "summary": "Extracts, summarizes, and organizes key information from business documents for faster review and decision-making.",
+  "metrics": [
+    {
+      "label": "Automation Impact",
+      "value": 85
+    },
+    {
+      "label": "Accuracy",
+      "value": 92
+    },
+    {
+      "label": "Efficiency Gain",
+      "value": 78
+    }
+  ]
+}

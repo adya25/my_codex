@@ -1,0 +1,18 @@
+{
+  "title": "AI Customer Insights Dashboard",
+  "summary": "Analyzes customer feedback, support themes, and behavioral signals to surface actionable product insights.",
+  "metrics": [
+    {
+      "label": "Automation Impact",
+      "value": 85
+    },
+    {
+      "label": "Accuracy",
+      "value": 92
+    },
+    {
+      "label": "Efficiency Gain",
+      "value": 78
+    }
+  ]
+}
